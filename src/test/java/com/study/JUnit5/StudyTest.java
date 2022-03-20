@@ -8,8 +8,7 @@ import org.junit.jupiter.api.*;
 class StudyTest {
 
 	@Test
-	@DisplayName("JUnit5 스터디")
-	void create_new_study() {
+	void create() {
 		Study study = new Study();
 		assertNotNull(study);
 		System.out.println("create");
