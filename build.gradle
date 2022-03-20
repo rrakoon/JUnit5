@@ -33,9 +33,9 @@ dependencies {
 }
 
 tasks.named('test') {
-//	useJUnitPlatform()
-	useJUnitPlatform{
-		includeTags 'fast'
-		excludeTags 'slow'
-	}
+	useJUnitPlatform()
+//	useJUnitPlatform{
+//		includeTags 'fast',
+//		excludeTags 'slow'
+//	}
 }
