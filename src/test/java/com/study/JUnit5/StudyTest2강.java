@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 
 @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
-class StudyTest {
+class StudyTest2강 {
 
 	@Test
 	void create() {

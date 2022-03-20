@@ -13,7 +13,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
 import org.junit.jupiter.api.condition.JRE;
 import org.junit.jupiter.api.condition.OS;
 
-class StudyTest3 {
+class StudyTest5강 {
 
 	@Test
 	@DisplayName("스터디 만들기") // 이모지, 공백, 한글가능

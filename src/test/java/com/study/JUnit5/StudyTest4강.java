@@ -6,7 +6,7 @@ import java.time.Duration;
 
 import org.junit.jupiter.api.*;
 
-class StudyTest2 {
+class StudyTest4강 {
 
 	@Test
 	@DisplayName("JUnit5 스터디")
