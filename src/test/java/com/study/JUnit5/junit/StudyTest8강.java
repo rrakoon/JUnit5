@@ -1,4 +1,4 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;

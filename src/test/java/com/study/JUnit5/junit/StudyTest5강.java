@@ -1,4 +1,4 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit;
 
 import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
@@ -12,6 +12,8 @@ import org.junit.jupiter.api.condition.EnabledOnJre;
 import org.junit.jupiter.api.condition.EnabledOnOs;
 import org.junit.jupiter.api.condition.JRE;
 import org.junit.jupiter.api.condition.OS;
+
+import com.study.JUnit5.junit5.Study;
 
 class StudyTest5강 {
 

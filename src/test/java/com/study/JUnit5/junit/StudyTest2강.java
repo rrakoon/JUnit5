@@ -1,8 +1,10 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.*;
+
+import com.study.JUnit5.junit5.Study;
 
 @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 class StudyTest2강 {

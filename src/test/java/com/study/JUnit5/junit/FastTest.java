@@ -1,4 +1,4 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

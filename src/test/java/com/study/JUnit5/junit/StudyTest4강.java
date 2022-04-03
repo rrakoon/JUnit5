@@ -1,10 +1,13 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.time.Duration;
 
 import org.junit.jupiter.api.*;
+
+import com.study.JUnit5.junit5.Study;
+import com.study.JUnit5.junit5.StudyStatus;
 
 class StudyTest4강 {
 

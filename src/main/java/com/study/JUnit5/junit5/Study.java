@@ -1,4 +1,4 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit5;
 
 public class Study {
 
@@ -7,6 +7,10 @@ public class Study {
 
 	private int limit;
 	private String name;
+	
+	public Study() {
+		
+	}
 
 	public Study(int limit, String name) {
 		this.limit = limit;

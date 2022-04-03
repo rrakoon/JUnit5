@@ -1,4 +1,4 @@
-package com.study.JUnit5;
+package com.study.JUnit5.junit;
 
 import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
@@ -13,17 +13,19 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
 import org.junit.jupiter.api.condition.JRE;
 import org.junit.jupiter.api.condition.OS;
 
-class StudyTest7강 {
+class StudyTest6강 {
 
-	@FastTest
+	@Test
 	@DisplayName("JUnit 스터디 fast")
+	@Tag("fast")
 	void create_new_study() {
 		System.out.println("fast method");
 		
 	}
 	 
-	@SlowTest
+	@Test
 	@DisplayName("JUnit 스터디 slow") 
+	@Tag("slow")
 	void create_new_study1() {
 		System.out.println("slow method");
 		
